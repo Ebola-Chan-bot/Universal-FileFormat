@@ -15,12 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\nuget\build\native\万能文件格式.hpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="万能文件格式.cpp">
+    <ClCompile Include="测试与示例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
